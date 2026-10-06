@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.slidesapp-merged_res-37:/layout_item_slide.xml.flat",
+        "source": "com.example.slidesapp-main-39:/layout/item_slide.xml"
+    },
+    {
+        "merged": "com.example.slidesapp-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.example.slidesapp-main-39:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color slide_bg_1
+color slide_bg_2
+color slide_bg_3
+color slide_bg_4
+color slide_bg_5
+color slide_bg_6
+color teal_200
+color teal_700
+color white
+id bottomControls
+id btnNext
+id btnPrev
+id btnSlideAction
+id fabJump
+id ivSlideIcon
+id slideRoot
+id tvSlideContent
+id tvSlideIndicator
+id tvSlideTitle
+id viewPager
+layout activity_main
+layout item_slide
+string app_name
+string go
+string jump_to
+string next
+string prev
+string slide_number
+style Base.Theme.SlidesApp
+style Theme.SlidesApp

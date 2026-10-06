@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.slidesapp-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.example.slidesapp-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.slidesapp-mergeDebugResources-36:/layout/item_slide.xml",
+        "source": "com.example.slidesapp-main-39:/layout/item_slide.xml"
+    }
+]
